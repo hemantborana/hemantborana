@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hemant Borana | Data Analytics Specialist
 
-<!--
-**hemantborana/hemantborana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-parasmal-borana-17a742289)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hb00112)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hb00112.github.io)
 
-Here are some ideas to get you started:
+## 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Final-year BCA student at Amity University Online specializing in Data Analytics. Passionate about transforming raw data into meaningful insights using Python, SQL, and data visualization tools. Seeking opportunities to apply analytical skills to solve real-world business challenges.
+
+🔭 **Currently:** Building expertise in data analysis and visualization  
+🌱 **Learning:** Advanced Python for Data Science, Machine Learning fundamentals  
+💬 **Ask me about:** Data cleaning, SQL queries, Excel dashboards  
+📫 **How to reach me:** hemantpb123@gmail.com  
+
+## 🛠 Technical Skills
+
+### Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Data Visualization
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 📚 Education
+
+- **Bachelor of Computer Applications (BCA)**  
+  Amity University Online (2023-2026)  
+  Specialization in Data Analytics | CGPA: 7.38 (Semester III)  
+
+- **Higher Secondary (12th)**  
+  Dnyanprassarak Mandal's P.V.S. Sarojini Madhusudan Kushe Higher Secondary School  
+  Computer Science | Percentage: 71%  
+
+## 🏆 Certifications
+
+- Python Programming - Coursera (2022)
+- Database Management - edX (2022)
+- Web Development Bootcamp - Udemy (2023)
+
+## 📂 Featured Projects
+
+### [E-commerce Data Analysis](https://github.com/hb00112/ecommerce-analysis)
+Python project analyzing customer behavior and sales trends from e-commerce data  
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+### [Sales Dashboard](https://github.com/hb00112/sales-dashboard)
+Interactive Excel dashboard for sales performance visualization  
+`Excel` `PivotTables` `Data Visualization`
+
+### [SQL Data Exploration](https://github.com/hb00112/sql-data-exploration)
+SQL queries for data exploration and analysis  
+`SQL` `Data Analysis` `Database`
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hb00112&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hb00112&layout=compact&theme=dark&hide_border=true)
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting data projects or discussing opportunities. Feel free to reach out!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantpb123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-parasmal-borana-17a742289)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemant_borana_/)
