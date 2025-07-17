@@ -59,13 +59,6 @@ Interactive Excel dashboard for sales performance visualization
 SQL queries for data exploration and analysis  
 `SQL` `Data Analysis` `Database`
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hb00112&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hb00112&layout=compact&theme=dark&hide_border=true)
-
-> 🔍 *Legacy Contributions:* For earlier repositories, analytics projects, and business tools, visit my previous GitHub account [@borana-hemant](https://github.com/borana-hemant)
-
 
 ## 🤝 Let's Connect
 
