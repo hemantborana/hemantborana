@@ -46,7 +46,7 @@ Final-year BCA student at Amity University Online specializing in Data Analytics
 
 ## 📂 Featured Projects
 
-### [E-commerce Data Analysis](https://github.com/hb00112/ecommerce-analysis)
+### [E-commerce Data Analysis](https://hemantborana.github.io/D-OMS/)
 Python project analyzing customer behavior and sales trends from e-commerce data  
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
