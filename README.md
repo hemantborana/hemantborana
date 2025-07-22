@@ -54,7 +54,7 @@ Final-year BCA student at Amity University Online focusing on Data Analytics. Pa
 ## 📂 Featured Projects
 
 ### [Distributor Order Management System – with Analytics](https://hemantborana.github.io/D-OMS/)
-A responsive web tool to manage retailer orders, monitor stock status, and track progress. Built with vanilla web technologies and integrated APIs to simulate backend behavior.
+A responsive web app to manage retailer orders, monitor stock status, and track progress. Built with vanilla web technologies and integrated APIs to simulate backend behavior.
 
 `HTML` `CSS` `JavaScript` `API's`
 
