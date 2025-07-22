@@ -55,6 +55,7 @@ Final-year BCA student at Amity University Online specializing in Data Analytics
 A streamlined system to manage retailer orders, monitor stock status, and track order progress 
 `HTML` `CSS` `JavaScript` `API's`
 
+<!--
 ### [Sales Dashboard](https://github.com/hb00112/sales-dashboard)
 Interactive Excel dashboard for sales performance visualization  
 `Excel` `PivotTables` `Data Visualization`
@@ -62,7 +63,7 @@ Interactive Excel dashboard for sales performance visualization
 ### [SQL Data Exploration](https://github.com/hb00112/sql-data-exploration)
 SQL queries for data exploration and analysis  
 `SQL` `Data Analysis` `Database`
-
+-->
 
 ## 🤝 Let's Connect
 
