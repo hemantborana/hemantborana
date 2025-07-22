@@ -21,7 +21,6 @@ Final-year BCA student at Amity University Online specializing in Data Analytics
 
 ### Data Visualization
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,17 +37,23 @@ Final-year BCA student at Amity University Online specializing in Data Analytics
   Dnyanprassarak Mandal's P.V.S. Sarojini Madhusudan Kushe Higher Secondary School  
   Computer Science | Percentage: 71%  
 
+- **Higher Secondary (10th)**  
+  Dnyanprassarak Vidyalaya (2021) 
+  Percentage: 75%  
+
+<!--
 ## 🏆 Certifications
 
 - Python Programming - Coursera (2022)
 - Database Management - edX (2022)
 - Web Development Bootcamp - Udemy (2023)
+-->
 
 ## 📂 Featured Projects
 
-### [E-commerce Data Analysis](https://hemantborana.github.io/D-OMS/)
-Python project analyzing customer behavior and sales trends from e-commerce data  
-`Python` `Pandas` `Matplotlib` `Seaborn`
+### [Distributor Order Management System - with Analytics](https://hemantborana.github.io/D-OMS/)
+A streamlined system to manage retailer orders, monitor stock status, and track order progress 
+`HTML` `CSS` `JavaScript` `API's`
 
 ### [Sales Dashboard](https://github.com/hb00112/sales-dashboard)
 Interactive Excel dashboard for sales performance visualization  
