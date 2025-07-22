@@ -52,6 +52,7 @@ Final-year BCA student at Amity University Online specializing in Data Analytics
 ## 📂 Featured Projects
 
 ### [Distributor Order Management System - with Analytics](https://hemantborana.github.io/D-OMS/)
+[View Code Repository](https://github.com/hb00112/D-OMS)
 A streamlined system to manage retailer orders, monitor stock status, and track order progress 
 `HTML` `CSS` `JavaScript` `API's`
 
