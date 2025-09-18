@@ -93,7 +93,7 @@ Developed as part of the **TCS Course Project** during the **BCA program at Amit
 
 `Excel` `Data Analysis` `Pivot Tables` `Linear Programming`
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantborana/RetailSupermarketAnalytics)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantborana/Retail-Supermarket-Analytics)
 
 ---
 
