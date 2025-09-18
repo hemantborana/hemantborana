@@ -68,7 +68,7 @@ Final-year BCA student at Amity University Online focusing on Data Analytics. Pa
 - Gained **practical B2B commercial experience** and **supply chain analytics exposure**.  
 - Hands-on involvement in wholesale operations, brand management, and B2B sales for premium fashion brands.  
 - Applied demand forecasting and inventory planning for seasonal and retail trends.  
-- Distribution experience with premium brands: **ENAMOR, Levi's, One8, Lux Cozi, Dixcy Scott**.  
+- Distribution experience with premium brands: **Enamor, Levi's, One8, Lux Cozi, Dixcy Scott**.  
 - Developed strong business acumen through **multi-tier distribution channel management**.  
 
 **Key Skills:** Wholesale Distribution, B2B Sales, Brand Management, Inventory Planning, Supply Chain Analytics  
