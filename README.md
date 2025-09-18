@@ -51,7 +51,6 @@ Final-year BCA student at Amity University Online focusing on Data Analytics. Pa
 - Web Development Bootcamp - Udemy (2023)
 -->
 
-## 📂 Featured Projects
 
 ## 📂 Featured Projects
 
