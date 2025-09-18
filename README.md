@@ -87,7 +87,7 @@ A responsive web app to manage retailer orders, monitor stock status, and track 
 
 ---
 
-### [Retail Supermarket Sales & Profit Analysis](https://github.com/hemantborana/RetailSupermarketAnalytics)
+### [Retail Supermarket Sales & Profit Analysis](https://github.com/hemantborana/Retail-Supermarket-Analytics)
 A data analytics project analyzing supermarket sales, profits, and customer behavior using Excel dashboards and Linear Programming optimization.  
 Developed as part of the **TCS Course Project** during the **BCA program at Amity University Online**.  
 
