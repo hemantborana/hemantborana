@@ -53,6 +53,8 @@ Final-year BCA student at Amity University Online focusing on Data Analytics. Pa
 
 ## 📂 Featured Projects
 
+## 📂 Featured Projects
+
 ### [Distributor Order Management System – with Analytics](https://hemantborana.github.io/D-OMS/)
 A responsive web app to manage retailer orders, monitor stock status, and track progress. Built with vanilla web technologies and integrated APIs to simulate backend behavior.
 
@@ -61,6 +63,14 @@ A responsive web app to manage retailer orders, monitor stock status, and track 
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantborana/D-OMS)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hemantborana.github.io/D-OMS/)
 
+
+### [Retail Supermarket Sales & Profit Analysis](https://github.com/hemantborana/RetailSupermarketAnalytics)
+A data analytics project analyzing supermarket sales, profits, and customer behavior using Excel dashboards and Linear Programming optimization.  
+Developed as part of the **TCS Course Project** during the **BCA program at Amity University Online**.  
+
+`Excel` `Data Analysis` `Pivot Tables` `Linear Programming`
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantborana/RetailSupermarketAnalytics)
 
 <!--
 ### [Sales Dashboard](https://github.com/hb00112/sales-dashboard)
