@@ -78,7 +78,9 @@ Final-year BCA student at Amity University Online focusing on Data Analytics. Pa
 
 ### [Distributor Order Management System – with Analytics](https://hemantborana.github.io/D-OMS/)
 A responsive web app to manage retailer orders, monitor stock status, and track progress. Built with vanilla web technologies and integrated APIs to simulate backend behavior.
+
 `HTML` `CSS` `JavaScript` `API's`
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantborana/D-OMS)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hemantborana.github.io/D-OMS/)
 
@@ -86,15 +88,19 @@ A responsive web app to manage retailer orders, monitor stock status, and track 
 
 ### [Retail Supermarket Sales & Profit Analysis](https://github.com/hemantborana/Retail-Supermarket-Analytics)
 A data analytics project analyzing supermarket sales, profits, and customer behavior using Excel dashboards and Linear Programming optimization.  
-Developed as part of the **TCS Course Project** during the **BCA program at Amity University Online**.  
+Developed as part of the **TCS Course Project** during the **BCA program at Amity University Online**.
+
 `Excel` `Data Analysis` `Pivot Tables` `Linear Programming`
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantborana/Retail-Supermarket-Analytics)
 
 ---
 
 ### [HR Employee Attrition Analysis - Excel](https://github.com/hemantborana/HR-Employee-Attrition-Analysis)
 A comprehensive data analytics project focused on understanding employee attrition patterns using advanced Excel techniques. Analyzed 1,470 employee records across 36 variables to identify key factors contributing to workforce turnover and provide actionable insights for HR decision-making.
+
 `Excel` `Data Analysis` `Pivot Tables` `Regression Analysis` `What-If Analysis`
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantborana/HR-Employee-Attrition-Analysis)
 [![Dashboard Preview](https://img.shields.io/badge/Dashboard%20Preview-4CAF50?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/hemantborana/HR-Employee-Attrition-Analysis/blob/main/screenshots/Dashboard_overview.png)
 
@@ -102,7 +108,9 @@ A comprehensive data analytics project focused on understanding employee attriti
 
 ### [HR Attrition Analysis - ML Python](https://github.com/hemantborana/HR-Attrition-Analysis-ML-Python)
 A comprehensive data analytics and machine learning project focused on understanding employee attrition patterns using Python. Employed advanced statistical analysis, data visualization, and predictive modeling to analyze 1,470+ employee records using pandas, matplotlib, seaborn, and plotly libraries.
+
 `Python` `Jupyter Notebook` `pandas` `matplotlib` `seaborn` `plotly` `Machine Learning`
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantborana/HR-Attrition-Analysis-ML-Python)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/hemantborana/HR-Attrition-Analysis-ML-Python/blob/main/notebooks/employee_attrition_analysis.ipynb)
 
