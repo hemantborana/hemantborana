@@ -52,11 +52,13 @@ Final-year BCA student at Amity University Online focusing on Data Analytics. Pa
 *Jul 2025 – Sep 2025*  
 
 - Participated in **TCS iON RIO-125**, a 125-hour industry internship program focused on retail demand forecasting and data analytics.  
+- Developed a **Retail Sales Forecasting System** analyzing 200,000+ records with **99.41% R² accuracy**.
 - Worked on forecasting systems and analyzed historical data to predict product demand at retail outlets.  
-- Gained hands-on experience with data analysis tools under industry mentorship.  
+- Gained hands-on experience with machine learning algorithms including Gradient Boosting for time series forecasting.
 - Attended structured webinars and modules focused on real-world retail analytics.  
+- **Certified Completion:** Successfully completed the internship with official TCS iON certificate (Cert. ID: 1077-28669565-1016).
 
-**Key Skills:** Data Analytics, Demand Forecasting, Retail Analytics, Python  
+**Key Skills:** Data Analytics, Demand Forecasting, Machine Learning, Retail Analytics, Python, Scikit-learn  
 
 ---
 
@@ -74,6 +76,7 @@ Final-year BCA student at Amity University Online focusing on Data Analytics. Pa
 **Key Skills:** Wholesale Distribution, B2B Sales, Brand Management, Inventory Planning, Supply Chain Analytics  
 
 ---
+
 # 🚀 Featured Projects
 
 ## 💼 Full-Stack Development
@@ -94,6 +97,27 @@ A comprehensive web application designed to streamline distributor operations wi
 ---
 
 ## 🔬 Data Science & Machine Learning
+
+### [Retail Sales Forecasting System - ML](https://github.com/hemantborana/TCS-iON-RIO-Retail-Sales-Forecasting)
+
+<div align="center">
+  <img src="./assests/images/project-rsfs.png" alt="Retail Sales Forecasting Preview" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
+
+Advanced machine learning system for retail demand prediction developed during **TCS iON RIO 125 internship**. Analyzed 200,000 records across 4 years (2020-2023) using Gradient Boosting algorithm to achieve **99.41% R² accuracy** and **3.44% MAPE**. Features comprehensive data pipeline from generation to forecasting, seasonal pattern analysis, risk assessment, and business recommendations for inventory optimization and procurement planning.
+
+**Key Features:**
+- Advanced ML pipeline with Gradient Boosting algorithm
+- Time series analysis with seasonal pattern recognition  
+- Risk assessment and business recommendation engine
+- Data generation simulation for 4 years of retail data
+- Comprehensive performance metrics and visualization
+
+**Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook` `Gradient Boosting` `Time Series Analysis`
+
+[![Jupyter Notebook](https://img.shields.io/badge/📓_Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter)](https://github.com/hemantborana/TCS-iON-RIO-Retail-Sales-Forecasting/blob/main/retail_sales_forecasting_system.ipynb)
+[![Video Explanation](https://img.shields.io/badge/🎥_Video_Demo-FF0000?style=for-the-badge&logo=youtube)](https://github.com/hemantborana/TCS-iON-RIO-Retail-Sales-Forecasting/blob/main/presentation/TSC%20iON%20RIO%20Project%20Explanation.mp4)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/hemantborana/TCS-iON-RIO-Retail-Sales-Forecasting)
 
 ### [Enterprise DMS Sales Report Scraper](https://github.com/hemantborana/enterprise-sales-data-extractor)
 
@@ -168,6 +192,21 @@ A comprehensive data analytics project focused on understanding employee attriti
 
 ---
 
+## 🏆 Certifications & Achievements
+
+### TCS iON RIO-125 Remote Internship Certificate
+**Tata Consultancy Services** • Sept 2025  
+**Certificate ID:** 1077-28669565-1016  
+
+- **Project:** Forecasting System - Project Demand of Products at a Retail Outlet Based on Historical Data
+- **Duration:** 125 hours of industry-focused training and project work
+- **Completion Date:** July 18, 2025 to September 24, 2025
+- **Issued By:** Mehul Mehta, Global Delivery Head – TCS iON
+
+**Skills Validated:** Retail Analytics, Demand Forecasting, Machine Learning, Data Analysis, Python Programming
+
+---
+
 <div align="center">
   
 ## 🎯 Project Highlights
@@ -175,9 +214,9 @@ A comprehensive data analytics project focused on understanding employee attriti
 | Category | Count | Technologies |
 |----------|-------|-------------|
 | **Full-Stack Development** | 1 | HTML/CSS, JavaScript, APIs |
-| **Data Science & ML** | 2 | Python, Selenium, pandas, ML |
+| **Data Science & ML** | 3 | Python, Scikit-learn, Selenium, ML |
 | **Business Analytics** | 2 | Excel, Data Visualization, Analytics |
-| **Total Projects** | **5** | **10+ Technologies** |
+| **Total Projects** | **6** | **15+ Technologies** |
 
 </div>
 
@@ -186,7 +225,6 @@ A comprehensive data analytics project focused on understanding employee attriti
 <div align="center">
   <i>💡 Each project demonstrates practical problem-solving skills and real-world application of technology to drive business value.</i>
 </div>
-
 ---
 ## 🤝 Let's Connect
 > 🚀 I believe in learning through building. If you're working on a cool data project or want to collaborate—let’s connect!
