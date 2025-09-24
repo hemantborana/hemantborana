@@ -1,4 +1,4 @@
-# Hemant Borana | Aspiring Data Analyst
+  # Hemant Borana | Aspiring Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-parasmal-borana-17a742289)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hemantborana.github.io/Portfolio/)
@@ -195,6 +195,11 @@ A comprehensive data analytics project focused on understanding employee attriti
 ## 🏆 Certifications & Achievements
 
 ### TCS iON RIO-125 Remote Internship Certificate
+
+<div align="center">
+  <img src="./assests/images/tcs-ion-certificate.png" alt="TCS iON RIO-125 Certificate" width="700px" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 2px solid #f0f0f0;"/>
+</div>
+
 **Tata Consultancy Services** • Sept 2025  
 **Certificate ID:** 1077-28669565-1016  
 
@@ -204,7 +209,6 @@ A comprehensive data analytics project focused on understanding employee attriti
 - **Issued By:** Mehul Mehta, Global Delivery Head – TCS iON
 
 **Skills Validated:** Retail Analytics, Demand Forecasting, Machine Learning, Data Analysis, Python Programming
-
 ---
 
 <div align="center">
