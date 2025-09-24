@@ -197,7 +197,7 @@ A comprehensive data analytics project focused on understanding employee attriti
 ### TCS iON RIO-125 Remote Internship Certificate
 
 <div align="center">
-  <img src="./assests/images/tcs-ion-certificate.png" alt="TCS iON RIO-125 Certificate" width="700px" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 2px solid #f0f0f0;"/>
+  <img src="./assests/images/tcs-ion-certificate.jpg" alt="TCS iON RIO-125 Certificate" width="700px" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 2px solid #f0f0f0;"/>
 </div>
 
 **Tata Consultancy Services** • Sept 2025  
